@@ -14,3 +14,8 @@
 | `git diff` | show unstaged changes | `git diff` |
 | `git restore file` | discard local changes | `git restore demo.txt` |
 | `git branch` | list all branches | `git branch` |
+| `git branch` | list all branches | `git branch` |
+| `git branch feature` | create a new branch | `git branch feature` |
+| `git checkout feature` | switch branch | `git checkout feature` |
+| `git checkout -b feature` | create and switch branch | `git checkout -b feature` |
+| `git merge feature` | merge branch into current branch | `git merge feature` |
