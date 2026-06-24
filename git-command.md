@@ -14,3 +14,7 @@
 | `git diff` | show unstaged changes | `git diff` |
 | `git restore file` | discard local changes | `git restore demo.txt` |
 | `git branch` | list all branches | `git branch` |
+
+| `git remote -v` | view remote repositories | `git remote -v` |
+| `git push origin master` | push changes to GitHub | `git push origin master` |
+| `git pull origin master` | pull latest changes | `git pull origin master` |
