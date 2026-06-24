@@ -19,3 +19,41 @@
 | `git checkout feature` | switch branch | `git checkout feature` |
 | `git checkout -b feature` | create and switch branch | `git checkout -b feature` |
 | `git merge feature` | merge branch into current branch | `git merge feature` |
+
+
+# Git Commands Cheat Sheet
+
+## Repository Initialization
+
+```bash
+git init
+```
+Initialize a new Git repository.
+
+```bash
+git clone <repository-url>
+```
+Clone an existing repository.
+
+---
+
+## Check Status
+
+```bash
+git status
+```
+Show current repository status.
+
+```bash
+git log
+```
+Show commit history.
+
+```bash
+git log --oneline
+```
+Show commit history in one line.
+
+```bash
+git log --graph --oneline --all
+```
