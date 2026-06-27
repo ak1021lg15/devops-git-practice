@@ -14,3 +14,4 @@ add settings page UI
 add icon for enable dark mode
 Bug Fixed in Main Branch
 fix login button
+change the login button colour
