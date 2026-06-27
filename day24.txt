@@ -1,1 +1,2 @@
 Create login form with email and password fields
+should implement basic validation and error msg
