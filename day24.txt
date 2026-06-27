@@ -7,3 +7,6 @@ Create signup form with username, email, password
 username, email and password must be enter
 
 update header component with some icons
+add profile page
+implement upload of profile picture
+add edit form for editing the name, bio and etc
