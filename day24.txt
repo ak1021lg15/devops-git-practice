@@ -6,3 +6,4 @@ layout style for header and footer
 Create signup form with username, email, password
 username, email and password must be enter
 
+update header component with some icons
